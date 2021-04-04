@@ -10,5 +10,11 @@
 
 ​		https://cloud.tsinghua.edu.cn/d/02498b84f633479fa209/
 
+​		另外，没有上传bin文件夹，但这无关紧要。如果需要运行程序，在src文件夹下输入的示例如下：
+
+​		python pinyin.py ./input.txt ./output.txt
+
 ​		其余详细的分析见README.pdf。
+
+
 
